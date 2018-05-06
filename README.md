@@ -1,4 +1,4 @@
-# Operating Systems Assignment
+# CMPT 300 (Operating Systems) - Assignment #3
 
 This is an implementation of locks which are Locks are 
 methods of synchronization used to prevent multiple threads from 
